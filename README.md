@@ -6,7 +6,8 @@
 
 Всё подписано по темам, должно быть примерно понятно, где и на какую тему каждая работа. Заранее спасибо за уделённое время!
  
- 
+  
+
 Hi! I'm glad you're here to see my studying works. Here are some of them, I have a lot more, but these are the most interesting or illustative in my view!
 Besides my Python codes, there is one file with my SQL requests and a file with a photo of database I've used there. 
 
