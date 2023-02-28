@@ -8,7 +8,7 @@
  
   
 
-Hi! I'm glad you're here to see my studying works. Here are some of them, I have a lot more, but these are the most interesting or illustative in my view!
+Hi! I'm glad you're here to see my studying works. Here are some of them, I have a lot more, but these are the most interesting or illustative in my view! Especially my diploma in python.
 Besides my Python codes, there is one file with my SQL requests and a file with a photo of database I've used there. 
 
 I clearly know all of the methods and functions I used in any code! Also, all the named of the files are indicative, I hope it isn't hard to understand which is which.
